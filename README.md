@@ -1,7 +1,5 @@
 # Overview of the Notification bot template
 
-This template showcases an app that send a message to Teams with Adaptive Cards triggered by a HTTP post request or timer schedule. You can further extend the template to consume, transform and post events to individual, chat or channel in Teams.
-
 The app template is built using the TeamsFx SDK, which provides a simple set of functions over the Microsoft Bot Framework to implement this scenario.
 
 ## Get Started with the Notification bot
